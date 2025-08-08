@@ -3,4 +3,4 @@ function findarea(radius) {
 }
 
 console.log(findarea(15));
-console.log("The area of a circle is:" + findarea(15))
+console.log("The area of a circle is:" + findarea(15) + "m\u00B2")
